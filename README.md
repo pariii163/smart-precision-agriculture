@@ -52,7 +52,7 @@ smart-precision-agriculture/
 
 ⚙️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/adityasharma-29/Smart-Precision-Agriculture-.git
+git clone https://github.com/pariii163/smart-precision-agriculture
 cd Smart-Precision-Agriculture-
 
 2️⃣ Create Virtual Environment
