@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+*.csv
+*.xlsx
+
+# Model files
+*.pkl
+*.h5
+*.pt
+
+# OS files
+.DS_Store
